@@ -29,5 +29,3 @@ Route::get('/new_message', "HomeController@new_message");
 Route::get('/testimonials', "HomeController@testimonials");
 Route::get('/show_message/{id}', "HomeController@show_message")->name('show_message');
 Route::post('/Contact_Us', "HomeController@CreateForm")->name('contact.store');
-
-Auth::routes();
