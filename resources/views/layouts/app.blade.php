@@ -100,7 +100,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="menu nav-item p-1"><a id="nav-link1" class="nav-link p-1" style="" aria-current="page" href="/"><i class="fas fa-home" ></i> Home</a></li>
-                        <li class="menu nav-item p-1"><a id="nav-link2" class="nav-link p-1" style="" aria-current="page" href="/about"><i class="fa fa-users mr-1"></i>About Us</a></li>
+                        <li class="menu nav-item p-1"><a id="nav-link2" class="nav-link p-1" style="" aria-current="page" href="/about"><i class="fas fa-users mr-1"></i>About Us</a></li>
                         <li class="menu nav-item p-1"><a id="nav-link3" class="nav-link p-1" style="" aria-current="page" href="/services"><i class="fas fa-book-open mr-1"></i> Services</a>   
                         </li>
                         <li class="menu nav-item p-1"><a id="nav-link4" class="nav-link p-1" style="" aria-current="page" href="/Why_Choose_Us"><i class="fas fa-book mr-1"></i>Why choose us ?</a></li>
