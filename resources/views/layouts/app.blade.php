@@ -169,7 +169,7 @@
     <footer id="" class="pt-2">
         <div class="container">
             <div class="row">
-                <div class="col-6 col-md-4 d-flex justify-content-center">
+                <div class="col-6 col-md-4 mb-3 d-flex justify-content-center">
                     <div style="">
                         <img style="width: 100px; height: auto;" class="mb-3" src="{{asset('assets/img/logo.JPG')}}">
                         <p style="color: black;font-size: 18px;">
@@ -178,9 +178,9 @@
                             </p>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 d-flex justify-content-center">
+                <div class="col-6 col-md-4 mb-3 d-flex justify-content-center">
                     <div class="">
-                        <h4 style="font-weight: bold;text-decoration: underline; color:#413e66;">Contact Us</h4>
+                        <h4 class="mb-1" style="font-weight: bold;text-decoration: underline; color:#413e66;">Contact Us</h4>
                             <p style="color: black;font-size: 18px;">
                                 <div><strong style="font-size: 18px;color:black;font-weight:bold;">Address:</strong><span style="font-size:18px;color: black;"> Xudong 2nd road, Wuhan, China</span></div> 
                                 <div><strong style="font-size: 18px;color:black;font-weight:bold;">Email:</strong> <span style="font-size:18px;color: black;"> usinfo@scipub.com</span></div>
@@ -189,9 +189,9 @@
                             </p>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 d-flex justify-content-center">
+                <div class="col-sm-8 col-md-4 mb-3 footer_operning d-flex justify-content-center">
                     <div class="">
-                        <h4 class="mb-4" style="font-weight: bold;text-decoration: underline;color:#413e66;">Opening hours</h4>
+                        <h4 class="mb-1" style="font-weight: bold;text-decoration: underline;color:#413e66;">Opening hours</h4>
                         <p style="color: black;font-size: 18px;">
                             <strong>We are available 24 hours daily.</strong>
                         </p>

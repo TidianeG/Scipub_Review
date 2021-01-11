@@ -1819,20 +1819,26 @@ h6 {
     .menu a{
         font-size: 15px;
     }
-   
+    .footer_operning{
+        margin-top: 20px;
+    }
 }
 @media (min-width: 576px) {
     .menu a {
         font-size: 15px;
     }
-    
+    .footer_operning{
+        margin-top: 20px;
+    }
 }
 /* MD */
 @media (min-width: 768px) {
     .menu a {
         font-size: 15px;
     }
-    
+    .footer_operning{
+        margin-top: 20px;
+    }
 }
 /* LG */
 @media (min-width: 991px) {
