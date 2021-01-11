@@ -200,12 +200,14 @@
             </div>
         </div>
         <div class="" style="background:#152a52;">
-            <div class="container row" style="margin:0px;">
-                <div class="col-sm-12 col-md-9 d-flex justify-content-center" style="color:white;">
-                    &copy; Copyright <strong> <label for="" style="color: darkred; font-weight: bolder;">S</label><label for="" style="color: black;font-weight: bolder;">ci</label><label for="" style="color: darkred;font-weight: bolder;">P</label><label for="" style="color: black;font-weight: bolder;">ub</label> 2010-2021</strong>. All Rights Reserved
+            <div class="row" style="margin:0px;">
+                <div class="bas_footer col-12 col-lg-9 " style="color:white;">
+                    &copy; Copyright <strong class="ml-1"> 
+                        <label for="" style="color: darkred; font-weight: bolder;">S</label><label for="" style="color: black;font-weight: bolder;">ci</label><label for="" style="color: darkred;font-weight: bolder;">P</label><label for="" style="color: black;font-weight: bolder;">ub</label> 2010-2021</strong>. All Rights Reserved
                 </div>
-                <div class="col-sm-12 col-md-3 d-flex justify-content-center" style="color:white;">           
-                     <span>Designed by </span> <label for="" style="color: darkred; font-weight: bolder;"> S</label><label for="" style="color: black;font-weight: bolder;">ci</label><label for="" style="color: darkred;font-weight: bolder;">P</label><label for="" style="color: black;font-weight: bolder;">ub</label>
+                <div class="bas_footer col-12 col-lg-3 " style="color:white;">           
+                     <span class="mr-1">Designed by 
+                        </span> <label for="" style="color: darkred; font-weight: bolder;">S</label><label for="" style="color: black;font-weight: bolder;">ci</label><label for="" style="color: darkred;font-weight: bolder;">P</label><label for="" style="color: black;font-weight: bolder;">ub</label>
                 </div>
             </div>
         </div>

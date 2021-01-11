@@ -8,15 +8,15 @@
                     <h3><label for="" style="color: darkred; font-weight: bolder;">S</label><label for="" style="color: black;font-weight: bolder;">ci</label><label for="" style="color: darkred;font-weight: bolder;">P</label><label for="" style="color: black;font-weight: bolder;">ub</label> consultancy service is dedicated to provide high-quality author services to the academic community.</h3>
                 </div>
 
-                <div class="row pt-5">
-                    <div class="col-md-6 col-lg-4 wow bounceInUp mb-5" data-wow-duration="1.4s">
+                <div class="row pt-5 ">
+                    <div class="col-md-6 col-lg-4 wow bounceInUp " data-wow-duration="1.4s">
                         <div class="box">
                             <div class="icon" style="background: #fceef3;"><i class="fas fa-pencil-ruler" style="color: #ff689b;"></i></div>
                             <h4 style="color: darkred;font-size: 22px;" class="title">Scientific manuscript writing</h4>
                             <p style="text-align: justify;font-size: 18px;color: black; " class="p-3 description">Research is time consuming and<br>  <label for="" style="color: darkred; font-weight: bolder;">S</label><label for="" style="color: black;font-weight: bolder;">ci</label><label for="" style="color: darkred;font-weight: bolder;">P</label><label for="" style="color: black;font-weight: bolder;">ub</label> will enable you to devote your time to your research activities while we draft in the shorstest time possible a high-quality research paper for you. We help you to transform your ideas and raw data into a publishable paper. We will take time to explore your datasets, to check carefully your objectives, and to design the analysis required. Our team of writers is composed of experienced researchers from various research fields who have strong scientific publication records. We have already designed and written hundreds of scientific papers published in leading SCI journals.</p>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4 wow bounceInUp mb-5" data-wow-duration="1.4s">
+                    <div class="col-md-6 col-lg-4 wow bounceInUp " data-wow-duration="1.4s">
                         <div class="box">
                             <div class="icon" style="background: #fff0da;"><i class="fas fa-highlighter" style="color: #e98e06;"></i></div>
                             <h4 style="color: darkred;font-size: 22px;" class="title">Scientific manuscript proofreading</h4>
@@ -24,7 +24,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-4 wow bounceInUp mb-5" data-wow-delay="0.1s" data-wow-duration="1.4s">
+                    <div class="col-md-6 col-lg-4 wow bounceInUp " data-wow-delay="0.1s" data-wow-duration="1.4s">
                         <div class="box">                           
                             <div class="icon" style="background: #e6fdfc;"><i class="fas fa-newspaper" style="color: #3fcdc7;"></i></div>
                             <h4 style="color: darkred;font-size: 22px;" class="title">Scientific manuscript technical review</h4>

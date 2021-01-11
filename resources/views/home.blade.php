@@ -16,12 +16,12 @@
                         <div class="row">
                             <div class="col-lg-6 col-md-6 home-part">
                                 <div class="mt-3" data-interval="">
-                                    <img class="d-block w-100 home-part" src="{{URL::asset('/images/premiere.jpeg')}}" height="" width="" alt="First slide">
+                                    <img class="d-block w-100 " src="{{URL::asset('/images/premiere.jpeg')}}" height="" width="" alt="First slide">
                                 </div>
                             </div>
-                            <div class="col-lg-6 col-md-6 home-part p-3">
+                            <div class="col-lg-6 col-md-6 home-part">
                            
-                                <div class="wow bounceInUp mb-5" data-wow-duration="1.3s">
+                                <div class="wow bounceInUp" data-wow-duration="1.3s">
                                     <div class="box">
                                         <ul>
                                             <li style="color: darkred;font-weight: bold;font-size: 21px;"><i class="far fa-check-circle"></i></li>

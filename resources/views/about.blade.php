@@ -13,10 +13,10 @@
 
                     <div class="col-lg-6 col-md-6">
                         <div class="about-img" class="">
-                            <img src="{{asset('assets/img/about_us.jpg')}}" alt="" height="auto">
+                            <img class="" src="{{asset('assets/img/about_us.jpg')}}" alt="" height="auto" style="display:block;overflow:hidden;">
                            
                                 <div class="about-content mt-5">
-                                    <div class="wow bounceInUp mb-5" data-wow-duration="1.4s">
+                                    <div class="wow bounceInUp" data-wow-duration="1.4s">
                                         <div class="box">
                                             <ul class="">
                                                 <li style="color: darkred;font-weight: bold;font-size: 21px;"><i class="far fa-check-circle"></i> A multidisciplinary team composed of native and <label for="">non-native</label> English scientists</li>
@@ -31,9 +31,9 @@
                                 </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 pt-4">
+                    <div class="col-lg-6 col-md-6">
                         <div class="about-content">
-                            <div class="wow bounceInUp mb-5" data-wow-duration="1.4s">
+                            <div class="wow bounceInUp m-4" data-wow-duration="1.4s">
                                 <div class="box">
                                     <ul>
                                         <li style="color: darkred;font-weight: bold;font-size: 21px;"><i class="far fa-check-circle"></i> A team of experienced and qualified Editors</li>
@@ -46,7 +46,7 @@
                                     </p>    
                                 </div>
                             </div>
-                            <div class="wow bounceInUp mb-5" data-wow-duration="1.4s">
+                            <div class="wow bounceInUp m-4" data-wow-duration="1.4s">
                                 <div class="box">
                                     <ul>
                                         <li style="color: darkred;font-weight: bold;font-size: 21px;"><i class="far fa-check-circle"></i> Scientific areas</li>
