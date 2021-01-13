@@ -1827,17 +1827,12 @@ h6 {
     .menu a {
         font-size: 15px;
     }
-    .footer_operning{
-        margin-top: 20px;
-    }
+    
 }
 /* MD */
 @media (min-width: 768px) {
     .menu a {
         font-size: 15px;
-    }
-    .footer_operning{
-        margin-top: 20px;
     }
 }
 /* LG */
@@ -1862,3 +1857,9 @@ h3{
 }
 
 /* MD */
+
+
+.brd-round{
+    border: 5px solid darkblue;
+    border-radius: 40px;
+}

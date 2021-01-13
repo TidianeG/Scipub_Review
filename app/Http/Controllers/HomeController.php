@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use App\Contact;
+use Mail;
 class HomeController extends Controller
 {
 
@@ -53,20 +54,29 @@ class HomeController extends Controller
 
     public function CreateForm(Request $request) {       
    
-        $contact = new Contact();
-        $data = $request->validate([
-          'name'=>'required|min:3',
-          'email' => 'required|min:4|email',
-          'subjet' => 'required|max:1000000',
-          'message' => 'required|min:3|max:1000000'  
-      ]);       
-      
-      $contact->name = $request->input('name');
-      $contact->email = $request->input('email');
-        $contact->subjet = $request->input('subjet');
-        $contact->message= $request->input('message');
-        $contact->message= "new";
-      $contact->save();
+      $data = array(
+        'name' => $request->name,
+        'email' => $request->email,
+        'subject' => $request->subject,
+        'mail_message' => $request->mail_message,
+      );
+    
+      Mail::send('emails.contactemail', compact('data'), function($message) use ($data){
+        $message->from($data['email'], $data['name']);
+        $message->to('gaye95cheikh@gmail.com', $data['name']);
+        $message->subject($data['subject']);
+      });
+     // dd(env($message));
+
+      /*Mail::send('emails.contactemail',[
+        'name'  => $request->name,
+        'email'  => $request->email,
+        'subjet'  => $request->subjet,
+        'message'  => $request->message
+      ], function($mail) use($request){
+          $mail->from(env('Mail_FROM_ADDRESS'),$request->name);
+          $mail->to('gaye95ahmeth@gmail.com')->subject($request->subjet);
+      });*/ 
       return redirect()->back()->with('success', 'Your message has send successfuly');
      }
 }

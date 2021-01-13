@@ -189,7 +189,7 @@
                             </p>
                     </div>
                 </div>
-                <div class="col-sm-8 col-md-4 mb-3 footer_operning d-flex justify-content-center">
+                <div class="col-sm-8 col-md-4  footer_operning d-flex justify-content-center">
                     <div class="">
                         <h4 class="mb-1" style="font-weight: bold;text-decoration: underline;color:#413e66;">Opening hours</h4>
                         <p style="color: black;font-size: 18px;">
@@ -235,14 +235,14 @@
     <script>        
         function count($this) {
             var current = parseInt($this.html(), 10);
-            current = current + 50; /* Where 50 is increment */
+            current = current + 10; /* Where 10 is increment */
             $this.html(++current);
             if (current > $this.data('count')) {
                 $this.html($this.data('count'));
             } else {
                 setTimeout(function() {
                     count($this)
-                }, 30);
+                }, 40);
             }
         }
         $(".stat_count, .stat_count_download").each(function() {

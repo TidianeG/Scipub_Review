@@ -31,7 +31,7 @@
 
                             <div class="features wow bounceInUp clearfix p-3">
                                 <div class="box p-2">
-                                    <div class="icon" style="background: #fceef3;"><i class="fas fa-sitemap" style="color: #ffb774;"></i></div>
+                                    <div class="icon" style="background: #fceef3;"><i class="fas fa-sitemap" style="color: #ff4884;"></i></div>
                                         <h4 style="color: darkred;font-weight: bold;font-size: 22px;"><label for="" style="color: darkred; font-weight: bolder;">S</label><label for="" style="color: black;font-weight: bolder;">ci</label><label for="" style="color: darkred;font-weight: bolder;">P</label><label for="" style="color: black;font-weight: bolder;">ub</label> is rich pool of scientific expertise</h4>
                                         <p style="text-align: justify;font-size: 18px;color: black; ">Our multidisciplinary and qualified team is a great strength of our company. The team is made up of experienced writers and talented researchers as well as members of prestigious publishing houses. Our team understands the difficulties associated with publication and that is why we help you taking away barriers throughout the process.</p>
                                 
@@ -40,7 +40,7 @@
                             </div>
                             <div class="features wow bounceInUp clearfix p-3">
                                 <div class="box p-2">
-                                    <div class="icon" style="background: #fceef3;"><i class="fa fa-diamond" style="color: #ffb774;"></i></div>
+                                    <div class="icon" style=""><i class="far fa-gem" style="color: #ff5774;"></i></div>
                                     <h4 style="color: darkred;font-weight: bold;font-size: 22px;">Best quality and price ratio </h4>
                                     <p style="text-align: justify;font-size: 18px;color: black; ">The prices of our services are the lowest on the market and we offer bulk discounts.</p>
                             
@@ -54,7 +54,7 @@
                         <div class="why-us-content">
                             <div class="features wow bounceInUp clearfix p-3">
                                 <div class="box p-2">
-                                    <div class="icon" style="background: #fceef3;"><i class="fas fa-tachometer-alt" style="color: #ffb774;"></i></div>
+                                    <div class="icon" style=""><i class="fas fa-tachometer-alt" style="color: #ff3774;"></i></div>
                                     <h4 style="color: darkred;font-weight: bold;font-size: 22px;">Efficiency and rapidity of our services</h4>
                                     <p style="text-align: justify;font-size: 18px;color: black; ">We check accurately your manuscript, enhance the production and get it ready for publication within the shortest duration.</p>
                             
@@ -63,7 +63,7 @@
                             </div>
                             <div class="features wow bounceInUp clearfix p-3">
                                <div class="box p-2">
-                                    <div class="icon" style="background: #fceef3;"><i class="fas fa-headset" style="color: #ffb774;"></i></div>
+                                    <div class="icon" style=""><i class="fas fa-headset" style="color: #ff1774;"></i></div>
                                     <h4 style="color: darkred;font-weight: bold;font-size: 22px;">Support from start to publication of your project</h4>
                                     <p style="text-align: justify;font-size: 18px;color: black; ">We provide a dedicated support to our customers and partners. We assist you from the experiment set-up to the publication of your findings.</p>
                             
@@ -72,7 +72,7 @@
                             </div>
                             <div class="features wow bounceInUp clearfix p-3">
                                 <div class="box p-2">
-                                    <div class="icon" style="background: #fceef3;"><i class="fa fa-language" style="color: #ffb774;"></i></div>
+                                    <div class="icon" style=""><i class="fas fa-language" style="color: #ff2774;"></i></div>
                                     <h4 style="color: darkred;font-weight: bold;font-size: 22px;">Second round of proofreading for free</h4>
                                     <p style="text-align: justify;font-size: 18px;color: black; ">We always offer two rounds of editing and proofreading absolutely free of cost. 99.9 % is not enough for us. Our mission is to reach 100% of accuracy and flawlessness.</p>
                             
@@ -105,27 +105,27 @@
                 <div class="section cl">
                     <div class="container">
                         <div class="row text-center ">
-                            <div class="col-md-2 col-sm-4 col-xs-12 justify-content-center" style="font-size:12px;">
+                            <div class="col-md-2 col-sm-4 m-2 col-xs-12 justify-content-center" style="font-size:12px;">
                                 <span data-scroll class="stat_count " style="color:#413e66;font-size:22px;font-weight:bold;">2106</span>
                                 <p class="" style="color:black;font-size:20px;font-weight:bold;">Clients</p>
                             </div><!-- end col -->
 
-                            <div class="col-md-2 col-sm-4 col-xs-12 justify-content-center" style="font-size:12px;">
+                            <div class="col-md-2 col-sm-4 m-2 col-xs-12  justify-content-center" style="font-size:12px;">
                                 <span data-scroll class="stat_count " style="color:#413e66;font-size:22px;font-weight:bold;">865</span>
                                 <p class="" style="color:black;font-size:20px;font-weight:bold;">Projects</p>
                             </div><!-- end col -->
 
-                            <div class="col-md-2 col-sm-4 col-xs-12 justify-content-center" style="font-size:12px;">
+                            <div class="col-md-2 col-sm-4 m-2 col-xs-12 justify-content-center" style="font-size:12px;">
                                 <span data-scroll class="stat_count " style="color:#413e66;font-size:22px;font-weight:bold;">579</span>
                                 <p class="" style="color:black;font-size:20px;font-weight:bold;">Published papers</p>
                             </div><!-- end col -->
 
-                            <div class="col-md-3 col-sm-4 col-xs-12 justify-content-center" style="font-size:12px;">
-                                <span data-scroll class="stat_count " style="color:#413e66;font-size:22px;font-weight:bold;">72</span>
+                            <div class="col-md-3 col-sm-4 m-2 col-xs-12  justify-content-center" style="font-size:12px;">
+                                <span data-scroll class="stat_count" style="color:#413e66;font-size:22px;font-weight:bold;">72</span>
                                 <p class="" style="color:black;font-size:20px;font-weight:bold;">Scientific journals</p>
                             </div><!-- end col -->
 
-                            <div class="col-md-3 col-sm-4 col-xs-12 justify-content-center" style="font-size:12px;">
+                            <div class="col-md-3 col-sm-4 m-2 col-xs-12  justify-content-center" style="font-size:12px;">
                                 <span data-scroll class="stat_count " style="color:#413e66;font-size:22px;font-weight:bold;">3110</span>
                                 <p class="" style="color:black;font-size:20px;font-weight:bold;">Total impact factor</p>
                             </div><!-- end col -->

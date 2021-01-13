@@ -35,11 +35,11 @@
                                     <div class="validate "></div>
                                 </div>
                                 <div class="form-group ">
-                                    <input  class="form-control " name="subjet"  placeholder="Subject " data-msg="Please enter at least 8 chars of subject " />
+                                    <input  class="form-control " name="subject"  placeholder="Subject " data-msg="Please enter at least 8 chars of subject " />
                                     <div class="validate "></div>
                                 </div>
                                 <div class="form-group ">
-                                    <textarea class="form-control " name="message" rows="7 " data-msg="Please write something for us " placeholder="Message "></textarea>
+                                    <textarea class="form-control " name="mail_message" rows="7 " data-msg="Please write something for us " placeholder="Message "></textarea>
                                     <div class="validate "></div>
                                 </div>
 
