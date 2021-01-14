@@ -63,7 +63,7 @@ class HomeController extends Controller
     
       Mail::send('emails.contactemail', compact('data'), function($message) use ($data){
         $message->from($data['email'], $data['name']);
-        $message->to('gaye95cheikh@gmail.com', $data['name']);
+        $message->to('gaye95cheikh@gmail.com');
         $message->subject($data['subject']);
       });
      // dd(env($message));
