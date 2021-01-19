@@ -66,6 +66,9 @@ class HomeController extends Controller
         $message->to('gaye95cheikh@gmail.com');
         $message->subject($data['subject']);
       });
+      
+        return redirect()->back()->with('success', 'Your message has send successfuly');
+     
      // dd(env($message));
 
       /*Mail::send('emails.contactemail',[
@@ -77,6 +80,6 @@ class HomeController extends Controller
           $mail->from(env('Mail_FROM_ADDRESS'),$request->name);
           $mail->to('gaye95ahmeth@gmail.com')->subject($request->subjet);
       });*/ 
-      return redirect()->back()->with('success', 'Your message has send successfuly');
+      
      }
 }

@@ -15,7 +15,7 @@
                         <div id="carousel-example" class="carousel slide" data-ride="carousel">
                                 <div class="carousel-inner row w-100 mx-auto mt-auto pt-5" role="listbox">
 
-                                    <div class="carousel-item col-md-6 col-lg-3 wow bounceInUp  active" data-wow-duration="1.4s">
+                                    <div class="carousel-item col-12 col-md-4 col-lg-3 wow bounceInUp  active" data-wow-duration="1.4s">
                                         <div class="box">
                                             <div class="icon" style="background: #fceef3;"><i class="fas fa-pencil-ruler" style="color: #ff689b;"></i></div>
                                             <h5 style="color: darkred;" class="title">Dr. Jiang, CAAS, China</h5>
@@ -25,7 +25,7 @@
                                                             </p>
                                             </div>
                                     </div>
-                                    <div class="carousel-item col-md-6 col-lg-3 wow bounceInUp" data-wow-duration="1.4s">
+                                    <div class="carousel-item col-12 col-md-4 col-lg-3 wow bounceInUp" data-wow-duration="1.4s">
                                         <div class="box">
                                             <div class="icon" style="background: #fff0da;"><i class="fas fa-pencil-ruler" style="color: #ff689b;"></i></div>
                                                 <h5 style="color: darkred;" class="title">Dr. Yun T.T, Wuhan University, China</h5>
@@ -37,7 +37,7 @@
                                             </div>
                                     </div>
 
-                                    <div class="carousel-item col-md-6 col-lg-3 wow bounceInUp " data-wow-delay="0.1s" data-wow-duration="1.4s">
+                                    <div class="carousel-item col-12 col-md-4 col-lg-3 wow bounceInUp " data-wow-delay="0.1s" data-wow-duration="1.4s">
                                         <div class="box">
                                             <div class="icon" style="background: #e6fdfc;"><i class="fas fa-pencil-ruler" style="color: #ff689b;"></i></div>
                                                 <h5 style="color: darkred;" class="title">Dr. Li, HUST, China</h5>
@@ -47,7 +47,7 @@
                                                             </p>
                                         </div>
                                     </div>
-                                    <div class="carousel-item col-md-6 col-lg-3 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+                                    <div class="carousel-item col-12 col-md-4 col-lg-3 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
                                         <div class="box">
                                             <div class="icon" style="background: #eafde7;"><i class="fas fa-pencil-ruler" style="color:#ff689b;"></i></div>
                                             <h5 style="color: darkred;" class="title">Prof. Liynk, Far Eastern Federal University, Russia</h5>
@@ -58,7 +58,7 @@
                                             </div>
                                     </div>
 
-                                    <div class="carousel-item col-md-6 col-lg-3 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+                                    <div class="carousel-item col-12 col-md-4 col-lg-3 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
                                         <div class="box">
                                             <div class="icon" style="background: #e1eeff;"><i class="fas fa-pencil-ruler" style="color: #ff689b;"></i></div>
                                                 <h5 style="color: darkred;" class="title">Dr. Sayeed, Pakistan</h5>
@@ -67,7 +67,7 @@
                                                             </p>
                                         </div>
                                     </div>
-                                    <div class="carousel-item col-md-6 col-lg-3 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+                                    <div class="carousel-item col-12 col-md-4 col-lg-3 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
                                         <div class="box">
                                             <div class="icon" style="background: #ecebff;"><i class="fas fa-pencil-ruler" style="color: #ff689b;"></i></div>
                                             <h5 style="color: darkred;" class="title">Dr. Yamamoto, Japan</h5>
@@ -77,7 +77,7 @@
                                         </div>
                                     </div>
 
-                                    <div class="carousel-item col-md-6 col-lg-3 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+                                    <div class="carousel-item col-12 col-md-4 col-lg-3 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
                                         <div class="box">
                                             <div class="icon" style="background: #ecebff;"><i class="fas fa-pencil-ruler" style="color: #ff689b;"></i></div>
                                             <h5 style="color: darkred;" class="title">Dr. Diegane, UCAD, Senegal</h5>

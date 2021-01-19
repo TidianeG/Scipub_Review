@@ -11,8 +11,8 @@
                             </span>  
                         </div>
                         <div id="collapse1" class="collapse">
-                            <div class="card-body">
-                                <strong style="color:black;">Welcome to <label for="" style="color: darkred; font-weight: bolder;">S</label><label for="" style="color: black;font-weight: bolder;color:darkred;">ci</label><label for="" style="color: darkred;font-weight: bolder;">P</label><label for="" style="color: black;font-weight: bolder;">ub</label> assistance service. Thanks for letting us know about your queries. Please find below the answer of your question. If it is still confused contact us directly by sending us an e-mail. Dear customer, we offer editing services for articles, academic papers, etc. These include simple or multiple round editing, and standard editing. Moreover, there are proofreading services, technical reading and so on. Thank you!</strong>
+                            <div class="card-body text-justify">
+                                <strong style="color:black;">Welcome to <label for="" style="color: darkred; font-weight: bolder;">S</label><label for="" style="color: black;font-weight: bolder;">ci</label><label for="" style="color: darkred;font-weight: bolder;">P</label><label for="" style="color: black;font-weight: bolder;">ub</label> assistance service. Thanks for letting us know about your queries. Please find below the answer of your question. If it is still confused contact us directly by sending us an e-mail. Dear customer, we offer editing services for articles, academic papers, etc. These include simple or multiple round editing, and standard editing. Moreover, there are proofreading services, technical reading and so on. Thank you!</strong>
                             </div>
                         </div>
                     </div>
@@ -23,7 +23,7 @@
                             </span>
                         </div>
                         <div id="collapse2" class="panel-collapse collapse">
-                            <div class="card-body">
+                            <div class="card-body text-justify">
                             <strong style="color:black;"> Welcome to <label for="" style="color: darkred; font-weight: bolder;">S</label><label for="" style="color: black;font-weight: bolder;">ci</label><label for="" style="color: darkred;font-weight: bolder;">P</label><label for="" style="color: black;font-weight: bolder;">ub</label> assistance service. Thanks for letting us know about your queries. Please find below the answer of your question. If it is still confused contact us directly by sending us an e-mail.
                                 Dear customer, all our editors are active scientific researchers and academicians and have at least the PhD level. They are well versed in the international standards of academic appraisal and scientific publication. They have published each more than 50 articles in top journals. Some editors are even associated with reputed journals as peer review experts, and with leading institutes as consulting examiners. Thank you!</strong>
             
@@ -37,7 +37,7 @@
                             </span>
                         </div>
                         <div id="collapse3" class="panel-collapse collapse">
-                            <div class="card-block">
+                            <div class="card-body text-justify">
                             <strong style="color:black;"> Welcome to <label for="" style="color: darkred; font-weight: bolder;">S</label><label for="" style="color: black;font-weight: bolder;">ci</label><label for="" style="color: darkred;font-weight: bolder;">P</label><label for="" style="color: black;font-weight: bolder;">ub</label> assistance service. Thanks for letting us know about your queries. Please find below the answer of your question. If it is still confused contact us directly by sending us an e-mail.
                         Dear customer, there are numerous advantages offered by us. Our price, service guarantee, promptitude and flexibility make us the leader in this field. Thank you!</strong>
 
@@ -53,7 +53,7 @@
                             </span>
                         </div>
                         <div id="collapse4" class="panel-collapse collapse">
-                            <div class="card-block">
+                            <div class="card-body text-justify">
                             <strong style="color:black;"> Welcome to <label for="" style="color: darkred; font-weight: bolder;">S</label><label for="" style="color: black;font-weight: bolder;">ci</label><label for="" style="color: darkred;font-weight: bolder;">P</label><label for="" style="color: black;font-weight: bolder;">ub</label> assistance service. Thanks for letting us know about your queries. Please find below the answer of your question. If it is still confused contact us directly by sending us an e-mail.
                             Dear customer, a technical reading is an in-depth proofreading of a manuscript in a particular field. We only offer technical reading service in our specializations (plant biology, bioinformatics, biotechnology, etc). However, we offer proofreading service in all scientific fields. Thank you!</strong>
 
@@ -67,7 +67,7 @@
                             </span>
                         </div>
                         <div id="collapse5" class="panel-collapse collapse">
-                            <div class="card-block">
+                            <div class="card-body text-justify">
                                 <strong style="color:black;">Welcome to <label for="" style="color: darkred; font-weight: bolder;">S</label><label for="" style="color: black;font-weight: bolder;">ci</label><label for="" style="color: darkred;font-weight: bolder;">P</label><label for="" style="color: black;font-weight: bolder;">ub</label> assistance service. Thanks for letting us know about your queries. Please find below the answer of your question. If it is still confused contact us directly by sending us an e-mail.
                             Dear customer, we will reply to your queries within hours during the working time. Send us an enquiry and our experts will be back to you at the earliest. Thank you!</strong>
 
@@ -82,7 +82,7 @@
                             </span>
                         </div>
                         <div id="collapse6" class="panel-collapse collapse">
-                            <div class="card-block">
+                            <div class="card-body text-justify">
                                 <strong style="color:black;">Welcome to <label for="" style="color: darkred; font-weight: bolder;">S</label><label for="" style="color: black;font-weight: bolder;">ci</label><label for="" style="color: darkred;font-weight: bolder;">P</label><label for="" style="color: black;font-weight: bolder;">ub</label> assistance service. Thanks for letting us know about your queries. Please find below the answer of your question. If it is still confused contact us directly by sending us an e-mail.
                         Dear customer, the submission service doesn’t last more than two working days.</strong>
 
@@ -96,7 +96,7 @@
                             </span>
                         </div>
                         <div id="collapse7" class="panel-collapse collapse">
-                            <div class="card-block">
+                            <div class="card-body text-justify">
                                 <strong style="color:black;">Welcome to <label for="" style="color: darkred; font-weight: bolder;">S</label><label for="" style="color: black;font-weight: bolder;">ci</label><label for="" style="color: darkred;font-weight: bolder;">P</label><label for="" style="color: black;font-weight: bolder;">ub</label> assistance service. Thanks for letting us know about your queries. Please find below the answer of your question. If it is still confused contact us directly by sending us an e-mail.
                                 Dear customer, Yes you can. That service is available. It is not expensive. Please contact us. Thank you!</strong>
 
@@ -111,7 +111,7 @@
                             </span>
                         </div>
                         <div id="collapse8" class="panel-collapse collapse">
-                            <div class="card-block">
+                            <div class="card-body text-justify">
                             <strong style="color:black;"> Welcome to <label for="" style="color: darkred; font-weight: bolder;">S</label><label for="" style="color: black;font-weight: bolder;">ci</label><label for="" style="color: darkred;font-weight: bolder;">P</label><label for="" style="color: black;font-weight: bolder;">ub</label> assistance service. Thanks for letting us know about your queries. Please find below the answer of your question. If it is still confused contact us directly by sending us an e-mail.
                             Dear customer, Yes. Contact us directly by e-mail for your order at usinfo@scipub.com. Thank you!</strong>
 

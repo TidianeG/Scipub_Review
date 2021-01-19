@@ -104,28 +104,28 @@
 
                 <div class="section cl">
                     <div class="container">
-                        <div class="row text-center ">
-                            <div class="col-md-2 col-sm-4 m-2 col-xs-12 justify-content-center" style="font-size:12px;">
+                        <div class="row justify-content-center">
+                            <div class="col-md-2 col-sm-4 m-2 col-xs-12 text-center" style="font-size:12px;">
                                 <span data-scroll class="stat_count " style="color:#413e66;font-size:22px;font-weight:bold;">2106</span>
                                 <p class="" style="color:black;font-size:20px;font-weight:bold;">Clients</p>
                             </div><!-- end col -->
 
-                            <div class="col-md-2 col-sm-4 m-2 col-xs-12  justify-content-center" style="font-size:12px;">
+                            <div class="col-md-2 col-sm-4 m-2 col-xs-12  text-center" style="font-size:12px;">
                                 <span data-scroll class="stat_count " style="color:#413e66;font-size:22px;font-weight:bold;">865</span>
                                 <p class="" style="color:black;font-size:20px;font-weight:bold;">Projects</p>
                             </div><!-- end col -->
 
-                            <div class="col-md-2 col-sm-4 m-2 col-xs-12 justify-content-center" style="font-size:12px;">
+                            <div class="col-md-2 col-sm-4 m-2 col-xs-12 text-center" style="font-size:12px;">
                                 <span data-scroll class="stat_count " style="color:#413e66;font-size:22px;font-weight:bold;">579</span>
                                 <p class="" style="color:black;font-size:20px;font-weight:bold;">Published papers</p>
                             </div><!-- end col -->
 
-                            <div class="col-md-3 col-sm-4 m-2 col-xs-12  justify-content-center" style="font-size:12px;">
+                            <div class="col-md-3 col-sm-4 m-2 col-xs-12  text-center" style="font-size:12px;">
                                 <span data-scroll class="stat_count" style="color:#413e66;font-size:22px;font-weight:bold;">72</span>
                                 <p class="" style="color:black;font-size:20px;font-weight:bold;">Scientific journals</p>
                             </div><!-- end col -->
 
-                            <div class="col-md-3 col-sm-4 m-2 col-xs-12  justify-content-center" style="font-size:12px;">
+                            <div class="col-md-3 col-sm-4 m-2 col-xs-12  text-center" style="font-size:12px;">
                                 <span data-scroll class="stat_count " style="color:#413e66;font-size:22px;font-weight:bold;">3110</span>
                                 <p class="" style="color:black;font-size:20px;font-weight:bold;">Total impact factor</p>
                             </div><!-- end col -->
